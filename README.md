@@ -1,0 +1,2 @@
+# chambot
+Trading bot project
