@@ -10,7 +10,8 @@ from datetime import timedelta, datetime
 import math
 from dateutil import parser
 import os.path
-import config
+import config ### this config file should contain your API keys API_KEY_BINANCE and API_SECRET_BINANCE
+
 
 
 
